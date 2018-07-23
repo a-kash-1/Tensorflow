@@ -10,8 +10,10 @@ The architecture is
  - 4 layers of convolutions 
  - each layer followed by batch Normalization & pooling. 
  
-To train the model on custom images place the images folder in the folder repository folder containing script file(RustNet.py/Rustnet.ipynb).
-
+To train the model on custom images 
+  - place the images folder in the folder repository folder containing script file(RustNet.py/Rustnet.ipynb).
+  - create a labels file in .txt format containing "image_File_name, label_no." info in the above folder.
+  
 To Test the trained model on test images, put the test images folder in the same folder as Predictor.py/Predictor.ipynb 
 
 
