@@ -13,4 +13,6 @@ The architecture is
 To train the model on custom images place the images folder in the folder repository folder containing script file(RustNet.py/Rustnet.ipynb).
 
 To Test the trained model on test images, put the test images folder in the same folder as Predictor.py/Predictor.ipynb 
+
+
 ==============================================================================================================================
